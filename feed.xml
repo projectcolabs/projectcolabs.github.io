@@ -3,10 +3,60 @@
     <title>Co-Labs</title>
     <link href="https://projectcolabs.github.io/feed.xml" rel="self" />
     <link href="https://projectcolabs.github.io" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2026-08-21T03:12:43+05:30</updated>
     <author>
         <name>Sushant Aditya, Kunal Rajpoot, Vishal Vikram Parth</name>
     </author>
     <id>https://projectcolabs.github.io</id>
 
+    <entry>
+        <title>Resources</title>
+        <author>
+            <name>Sushant Aditya, Kunal Rajpoot, Vishal Vikram Parth</name>
+        </author>
+        <link href="https://projectcolabs.github.io/resources.html"/>
+        <id>https://projectcolabs.github.io/resources.html</id>
+
+        <updated>2026-08-21T03:03:02+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    PYTHON W3Schools Jovian : DSA with Python MACHINE LEARNING Google's ML Crash course is quite a gem W3Schools provides a less theoretical approach OPTIMIZATION BOYD and VandenbergVishal's Notes (will soon be uploaded to the github repository) STATISTICS ISLP
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h5 id="python">
+      PYTHON
+    </h5>
+<div><ul>
+<li><a href="https://www.w3schools.com/python">W3Schools</a></li>
+<li><a href="https://jovian.com/learn/data-structures-and-algorithms-in-python">Jovian : DSA with Python</a></li>
+</ul></div>
+
+    <h5 id="machine-learning">
+      MACHINE LEARNING
+    </h5>
+<div><ul>
+<li><a href = "https://developers.google.com/machine-learning">Google's ML Crash course is quite a gem</a></li>
+<li><a href = "https://www.w3schools.com/python/python_ml_getting_started.asp">W3Schools provides a less theoretical approach</a></li>
+</ul></div>
+
+    <h5 id="optimization">
+      OPTIMIZATION
+    </h5>
+
+  <ul>
+    <li>BOYD and Vandenberg</li><li>Vishal's Notes (will soon be uploaded to the github repository)</li>
+  </ul>
+
+    <h5 id="statistics">
+      STATISTICS
+    </h5>
+<div><ul>
+<li><a href = "https://www.statlearning.com/">ISLP</a></li>
+</ul></div>
+            ]]>
+        </content>
+    </entry>
 </feed>
