@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Co-Labs",
     "description": "",
-    "home_page_url": "https://projectcolabs.github.io/August-2026",
-    "feed_url": "https://projectcolabs.github.io/August-2026/feed.json",
+    "home_page_url": "https://projectcolabs.github.io",
+    "feed_url": "https://projectcolabs.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sushant Aditya, Kunal Rajpoot, Vishal Vikram Parth"
