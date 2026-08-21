@@ -6,17 +6,17 @@
     "feed_url": "https://projectcolabs.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Sushant Aditya, Kunal Rajpoot, Vishal Vikram Parth"
+        "name": "Sushant Aditya"
     },
     "items": [
         {
-            "id": "https://projectcolabs.github.io/resources.html",
-            "url": "https://projectcolabs.github.io/resources.html",
+            "id": "https://projectcolabs.github.io/resources/",
+            "url": "https://projectcolabs.github.io/resources/",
             "title": "Resources",
             "summary": "PYTHON W3Schools Jovian : DSA with Python MACHINE LEARNING Google's ML Crash course is quite a gem W3Schools provides a less theoretical approach OPTIMIZATION BOYD and VandenbergVishal's Notes (will soon be uploaded to the github repository) STATISTICS ISLP",
             "content_html": "\n    <h5 id=\"python\">\n      PYTHON\n    </h5>\n<div><ul>\n<li><a href=\"https://www.w3schools.com/python\">W3Schools</a></li>\n<li><a href=\"https://jovian.com/learn/data-structures-and-algorithms-in-python\">Jovian : DSA with Python</a></li>\n</ul></div>\n\n    <h5 id=\"machine-learning\">\n      MACHINE LEARNING\n    </h5>\n<div><ul>\n<li><a href = \"https://developers.google.com/machine-learning\">Google's ML Crash course is quite a gem</a></li>\n<li><a href = \"https://www.w3schools.com/python/python_ml_getting_started.asp\">W3Schools provides a less theoretical approach</a></li>\n</ul></div>\n\n    <h5 id=\"optimization\">\n      OPTIMIZATION\n    </h5>\n\n  <ul>\n    <li>BOYD and Vandenberg</li><li>Vishal's Notes (will soon be uploaded to the github repository)</li>\n  </ul>\n\n    <h5 id=\"statistics\">\n      STATISTICS\n    </h5>\n<div><ul>\n<li><a href = \"https://www.statlearning.com/\">ISLP</a></li>\n</ul></div>",
             "author": {
-                "name": "Sushant Aditya, Kunal Rajpoot, Vishal Vikram Parth"
+                "name": "Sushant Aditya"
             },
             "tags": [
             ],
