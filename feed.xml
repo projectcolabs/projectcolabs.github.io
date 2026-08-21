@@ -3,7 +3,7 @@
     <title>Co-Labs</title>
     <link href="https://projectcolabs.github.io/feed.xml" rel="self" />
     <link href="https://projectcolabs.github.io" />
-    <updated>2026-08-21T03:12:43+05:30</updated>
+    <updated>2026-08-21T23:57:39+05:30</updated>
     <author>
         <name>Sushant Aditya</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-08-21T03:03:02+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                    PYTHON W3Schools Jovian : DSA with Python MACHINE LEARNING Google's ML Crash course is quite a gem W3Schools provides a less theoretical approach OPTIMIZATION BOYD and VandenbergVishal's Notes (will soon be uploaded to the github repository) STATISTICS ISLP
+                    PYTHON W3Schools Jovian : DSA with Python MACHINE LEARNING Google's ML Crash course is quite a gem W3Schools provides a less theoretical approach OPTIMIZATION BOYD and Vandenberg Optimization for Machine Learning by Vishal Vikram Parth STATISTICS ISLP Statistics Using Python Part I by Kunal Rajpoot
                 ]]>
             </summary>
         <content type="html">
@@ -45,16 +45,17 @@
     <h5 id="optimization">
       OPTIMIZATION
     </h5>
-
-  <ul>
-    <li>BOYD and Vandenberg</li><li>Vishal's Notes (will soon be uploaded to the github repository)</li>
-  </ul>
+<div><ul>
+<li>BOYD and Vandenberg</li>
+<li><a href = "https://projectcolabs.notion.site/Optimization-for-Machine-Learning-3c346c3609b58045a5eee1dcce69c6df?source=copy_link">Optimization for Machine Learning by Vishal Vikram Parth</a></li>
+</ul></div>
 
     <h5 id="statistics">
       STATISTICS
     </h5>
 <div><ul>
 <li><a href = "https://www.statlearning.com/">ISLP</a></li>
+<li><a href = "https://projectcolabs.notion.site/Statistics-Using-Python-Part-1-3c346c3609b58043b22bc71739e2129d?source=copy_link">Statistics Using Python Part I by Kunal Rajpoot</a></li>
 </ul></div>
             ]]>
         </content>
