@@ -3,7 +3,7 @@
     <title>Co-Labs</title>
     <link href="https://projectcolabs.github.io/feed.xml" rel="self" />
     <link href="https://projectcolabs.github.io" />
-    <updated>2026-08-21T23:57:39+05:30</updated>
+    <updated>2026-09-17T23:30:38+05:30</updated>
     <author>
         <name>Sushant Aditya</name>
     </author>
@@ -56,6 +56,14 @@
 <div><ul>
 <li><a href = "https://www.statlearning.com/">ISLP</a></li>
 <li><a href = "https://projectcolabs.notion.site/Statistics-Using-Python-Part-1-3c346c3609b58043b22bc71739e2129d?source=copy_link">Statistics Using Python Part I by Kunal Rajpoot</a></li>
+<li><a href = "https://projectcolabs.notion.site/Linear_Regression-cf546c3609b582acbd87812cdbbf4e9e?source=copy_link">Linear and Logistic Regression by Lavanis Aravindam</a></li>
+</ul></div>
+
+    <h5 id="additional">
+      Additional
+    </h5>
+<div><ul>
+<li><a href = "https://projectcolabs.notion.site/Interview-questions-5e946c3609b58282b0cf81616253bd72?source=copy_link">Interview Questions</a></li>
 </ul></div>
             ]]>
         </content>
