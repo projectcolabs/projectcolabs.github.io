@@ -3,69 +3,10 @@
     <title>Co-Labs</title>
     <link href="https://projectcolabs.github.io/feed.xml" rel="self" />
     <link href="https://projectcolabs.github.io" />
-    <updated>2026-09-17T23:30:38+05:30</updated>
+    <updated>1970-01-01T05:30:00+05:30</updated>
     <author>
-        <name>Sushant Aditya</name>
+        <name>Sushant Aditya, Kunal Rajpoot, Vishal Vikram Parth</name>
     </author>
     <id>https://projectcolabs.github.io</id>
 
-    <entry>
-        <title>Resources</title>
-        <author>
-            <name>Sushant Aditya</name>
-        </author>
-        <link href="https://projectcolabs.github.io/resources/"/>
-        <id>https://projectcolabs.github.io/resources/</id>
-
-        <updated>2026-08-21T03:03:02+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    PYTHON W3Schools Jovian : DSA with Python MACHINE LEARNING Google's ML Crash&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h5 id="python">
-      PYTHON
-    </h5>
-<div><ul>
-<li><a href="https://www.w3schools.com/python">W3Schools</a></li>
-<li><a href="https://jovian.com/learn/data-structures-and-algorithms-in-python">Jovian : DSA with Python</a></li>
-</ul></div>
-
-    <h5 id="machine-learning">
-      MACHINE LEARNING
-    </h5>
-<div><ul>
-<li><a href = "https://developers.google.com/machine-learning">Google's ML Crash course is quite a gem</a></li>
-<li><a href = "https://www.w3schools.com/python/python_ml_getting_started.asp">W3Schools provides a less theoretical approach</a></li>
-</ul></div>
-
-    <h5 id="optimization">
-      OPTIMIZATION
-    </h5>
-<div><ul>
-<li>BOYD and Vandenberg</li>
-<li><a href = "https://projectcolabs.notion.site/Optimization-for-Machine-Learning-3c346c3609b58045a5eee1dcce69c6df?source=copy_link">Optimization for Machine Learning by Vishal Vikram Parth</a></li>
-</ul></div>
-
-    <h5 id="statistics">
-      STATISTICS
-    </h5>
-<div><ul>
-<li><a href = "https://www.statlearning.com/">ISLP</a></li>
-<li><a href = "https://projectcolabs.notion.site/Statistics-Using-Python-Part-1-3c346c3609b58043b22bc71739e2129d?source=copy_link">Statistics Using Python Part I by Kunal Rajpoot</a></li>
-<li><a href = "https://projectcolabs.notion.site/Linear_Regression-cf546c3609b582acbd87812cdbbf4e9e?source=copy_link">Linear and Logistic Regression by Lavanis Aravindam</a></li>
-</ul></div>
-
-    <h5 id="additional">
-      Additional
-    </h5>
-<div><ul>
-<li><a href = "https://projectcolabs.notion.site/Interview-questions-5e946c3609b58282b0cf81616253bd72?source=copy_link">Interview Questions</a></li>
-</ul></div>
-            ]]>
-        </content>
-    </entry>
 </feed>
